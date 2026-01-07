@@ -1,2 +1,2 @@
 # freeCodeCamp
-This repositary contains all my solutions from freeCodeCamp
+This repository contains all my solutions from freeCodeCamp
